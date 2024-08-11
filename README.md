@@ -34,7 +34,7 @@ A gauge chart to monitor the monthly order progress against predefined targets.
 - Spending Score by Product Subcategory:
 Highlights the spending patterns across various product subcategories, allowing for targeted marketing strategies.
 
-_4. Customer Details Dashboard_
+_3. Customer Details Dashboard_
 
 - Customer Demographics:
 Bar and pie charts representing customer demographics like gender and profession.
