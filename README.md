@@ -34,9 +34,11 @@ Key Influencers: Utilized AI visuals to determine factors that significantly inf
 Impact Analysis: Visualizes the multiplier effect of different factors, helping to understand their contribution to overall customer satisfaction.
 
 **Project Highlights**
+
 Data-Driven Decisions: The dashboards facilitate data-driven decision-making by offering a clear view of customer and product-related metrics.
 Interactive Visuals: Users can interact with the visuals to filter and drill down into specific data points for deeper analysis.
 Comprehensive Coverage: From customer demographics to product performance, the project covers all critical aspects needed for effective business strategy formulation.
 
 **Conclusion**
+
 This Power BI project showcases advanced analytics capabilities by integrating traditional data visuals with AI-driven insights. It is an essential tool for understanding customer segments, enhancing product offerings, and optimizing business performance.
