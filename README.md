@@ -29,6 +29,7 @@ Top Customers: A detailed table listing the top 15 customers based on order volu
 Customer Satisfaction Influencers: AI-powered visuals identifying key factors impacting customer satisfaction, such as profession and marital status.
 
 _AI Visuals Integration_
+
 Key Influencers: Utilized AI visuals to determine factors that significantly influence customer satisfaction and purchase behavior. These insights guide product optimization and targeted marketing strategies.
 Impact Analysis: Visualizes the multiplier effect of different factors, helping to understand their contribution to overall customer satisfaction.
 
