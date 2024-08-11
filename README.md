@@ -4,6 +4,18 @@
 
 This Power BI project is a comprehensive analysis focusing on customer segmentation and product performance. It incorporates multiple dashboards, providing valuable insights into customer behavior, product preferences, and overall business performance. The project leverages advanced data visualization techniques, including AI-driven visuals, to uncover actionable insights.
 
+**Data Cleaning:**
+
+Performed essential preprocessing to ensure data accuracy and consistency, including handling missing values, correcting data types, and removing duplicates.
+
+**Data Modeling:**
+
+Established relationships between key tables to create a robust data model, enabling seamless analysis and insightful visualizations across multiple dashboards.
+
+**DAX Measures:**
+
+Developed custom DAX measures for calculating key metrics like total orders, average purchase frequency, and customer satisfaction, enhancing the analytical depth of the project.
+
 **Key Dashboards**
 
 _1. Customer Segmentation Dashboard_
